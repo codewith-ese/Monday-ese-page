@@ -8,7 +8,24 @@
   width: auto;
   height: fit-content;
   background: linear-gradient(90deg, #002219 0%, #8300b6 100%);
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 0;
 }
+
+    
+   
+@media only screen and (max-width:795px){
+  .container{
+    width: auto;
+    height: fit-content;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+  }
+}
+
+
 
 /*  Navigation css starts here */
 .navbar{
@@ -279,8 +296,9 @@ ol li:hover {
     padding-right: 40px;
     justify-content: stretch; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: lighter;
-    line-height: 1.6rem;
+   /* font-weight: lighter; */
+    font-weight:300;
+    line-height: 1.8rem;
 
         
 } 
