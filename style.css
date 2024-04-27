@@ -259,7 +259,7 @@ ol li:hover {
 
 .col-6 h2{
     width: 100%;
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
     color: #0099cc;
     font-weight: bold;
@@ -287,7 +287,7 @@ ol li:hover {
 
 .aside p{
   width: 100%;
-  font-size: 14px;
+  font-size: 16px;
   color: rgb(197, 195, 192);
   padding-top: 0;
   padding-left: 10px;
@@ -318,7 +318,7 @@ ol li:hover {
     }
     .col-6 h1{
         width: 100%;
-        font-size: 22px;
+        font-size: 24px;
         padding-top: 0;
         margin-top: 0;
         text-align: left;
@@ -333,7 +333,7 @@ ol li:hover {
         text-align: left;
         padding-left: 40px;
         padding-right: 40px;
-        font-size: 16px;
+        font-size: 18px;
        justify-content: space-evenly; 
        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
        font-weight: lighter;
