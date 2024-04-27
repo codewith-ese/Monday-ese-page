@@ -347,9 +347,9 @@ ol li:hover {
 
 @media only screen and (max-width: 450px) {
     .col-6 img{
-        width: 50%;
+        width: 90%;
         height: 300px;
-        border-radius: 80px;
+        border-radius: 40px;
         border: 2px solid rgb(13, 11, 6);
         box-shadow: 2px 3px 8px 1px black;
         margin: 2px;
@@ -375,7 +375,7 @@ ol li:hover {
 
 
 @media only screen and (max-width: 450px) {
-  .col-3 .aside img{width: 50%;
+  .col-3 .aside img{width: 90%;
   height: 300px;
   border-radius: 20px;
   border: 5px solid wheat;
