@@ -167,7 +167,7 @@
   <div class="footer-item">
 
       <h1>Quick Links </h1>
-      <a href="#"> <p id="colored_p"><b>👩‍💻 About Us</b></p></a>
+      <a href="#"> <p id="colored_p">👩‍💻 About Us</p></a>
       <a href="#"> <p id="colored_p">📜  Privacy Policy</p></a>
       <a href="#"> <p id="colored_p"> 🏢 Terms & Conditions</p></a>
       
