@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-    <title>Monday-Eseinone </title>
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Monday Eseinone | Contact </title>
     <link href="style.css" rel="stylesheet">
     <!-- Social ico CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -25,7 +25,7 @@
           <li> <a href="#">Portfolio </a></li>
         </ul>
       </nav>
-      <img src="images/menu.png" class="menu-icon" onclick="togglemenu()">
+      <img src="images/menu.png" class="menu-icon" onclick="togglemenu()" alt="menu image">
 
     </div>
 
@@ -60,10 +60,10 @@
   </table>
   <h1> LEARN MORE</h1>
       <!--  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
-        <img id="menu_img" src="images/001.webp"  alt="monday ese">
+        <img id="menu_img" src="images/001.webp"  alt=" graphic design image1">
   
         <br>
-        <img id="menu_img" src="https://lh3.googleusercontent.com/LTBzb1w7fDKZgrqY4kMkRUoEpOLFBm1yk8JFkGfToQVkrIE91sPlY30H-Bz3xFftSLmuqKdbHkt5xrePzZGaQeACwoITEVFIQYhkoVUUC_UIMr-jzBesKBewlyXskX9dHQ=w1280" alt="monday ese">
+        <img id="menu_img" src="https://lh3.googleusercontent.com/LTBzb1w7fDKZgrqY4kMkRUoEpOLFBm1yk8JFkGfToQVkrIE91sPlY30H-Bz3xFftSLmuqKdbHkt5xrePzZGaQeACwoITEVFIQYhkoVUUC_UIMr-jzBesKBewlyXskX9dHQ=w1280" alt=" ese from ese google website ">
       <!--  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 
   </div>
@@ -77,22 +77,17 @@
    <!-- <img src="images/profile_img.webp"  alt="monday ese"> --> 
     <img src="https://lh3.googleusercontent.com/LTBzb1w7fDKZgrqY4kMkRUoEpOLFBm1yk8JFkGfToQVkrIE91sPlY30H-Bz3xFftSLmuqKdbHkt5xrePzZGaQeACwoITEVFIQYhkoVUUC_UIMr-jzBesKBewlyXskX9dHQ=w1280" alt="monday ese">
     <p> Completed over 20 desktop app for various clients to help manage their businsses. 
-      feel free to check out samples of my recent project through the link below
-    </p>
-   <!--  <img src="static/images/001.jpg"  alt="monday ese">  --> 
-
-   <br/>
-
-   <h2> My Work</h2>
-   <p> 
-    I am passionate about making good use of the Python programming language,
-     HTML and CSS to build dynamic, mobile responsive and interactive web apps, 
-    for the purpose of solving a real-life problem. Feel free to check out the 
-    simple expenses tracker App I recently built. You can click on the link bellow 
-    to see explainner video. I also built the Desktop version of the App which is 
-    more robust with three file saving system which includes saving the users 
-    entries to a database,
-     excel file and also generating receipt with a text file for every entry.</p>
+      feel free to check out samples of my recent project through the link below</p>
+         <h2> My Work</h2>
+    <p> 
+        I am passionate about making good use of the Python programming language,
+        HTML and CSS to build dynamic, mobile responsive and interactive web apps, 
+        for the purpose of solving a real-life problem. Feel free to check out the 
+        simple expenses tracker App I recently built. You can click on the link bellow 
+        to see explainner video. I also built the Desktop version of the App which is 
+        more robust with three file saving system which includes saving the users 
+        entries to a database,
+        excel file and also generating receipt with a text file for every entry.</p>
   </div>
 
 
@@ -100,16 +95,15 @@
     <div class="aside">
       <h2>HTML and CSS</h2>
       <!-- <img src="images/022.webp"  alt="monday ese"> -->
-      <img id="menu_img" src="images/002.webp"  alt="monday ese">
-
+      <img id="menu_img" src="images/002.webp"  alt="monday computer boy">
 
       <h1> Website Links</h1>
 
-      <ol>
-        <li>Python programming </li>
-        <li>Website With HTML and CSS</li>
-        <li>Mobile App developement </li>
-        <li>Game Projects </li>
+        <ol>
+            <li>Python programming </li>
+            <li>Website With HTML and CSS</li>
+            <li>Mobile App developement </li>
+            <li>Game Projects </li>
         </ol>
 
         <p> 
@@ -150,7 +144,7 @@
     </table>
     <h1> LEARN MORE</h1>
         <!--  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
-          <img id="menu_img" src="images/001.webp"  alt="monday ese">
+          <img id="menu_img" src="images/001.webp"  alt="ese computer b">
     
         <!--  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->   
     </div>
@@ -180,9 +174,8 @@
 
       <br/>
       <div class="copyright-d">
-     
-
-      <h3 style="color: white;">COPYRIGHT© 2023-MondayEseinone</h3>
+        
+        <h3 style="color: white;">COPYRIGHT© 2023-MondayEseinone</h3>
       </div>
 
 
@@ -192,7 +185,7 @@
       
       <h1> CONTACT </h1>
       <p id="colored_wheat"> 📞☎  +234 807 523 6542</p>
-      <p>✉  <b>Email:</b><i></i> eesinone@gmail.com</i></p>
+      <p>✉  <b>Email:</b><i> eesinone@gmail.com</i></p>
       <p>🏢 <b>Address:</b><i> Bwari Abuja Nigeria </i></p>
 
     
