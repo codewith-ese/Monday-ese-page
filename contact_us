@@ -45,13 +45,13 @@
 
     <table class="profile-table">
       <tr>
-        <th> CUSTOMISED WEBSIDE DESIGN</th>
+        <th> CUSTOMISED WEBSITE DESIGN</th>
      
         
       </tr>
       <tr> 
-      <td> <p> If you can imagine it, we can build it. How about you think 
-        about the next problem you would like to solve and we help you build the solution
+      <td> <p> If you imagine it, we can build it. How about you think 
+        about the next problem you would like to solve and we will help you build the solution
       </p></td>
 
 
@@ -72,21 +72,21 @@
     <h1>Monday Eseinone</h1>
     <h2> 💻 Software Engineer and Web developer.</h2>
     <p> 🌠 Experience in Python, HTML, CSS, and Javascript. I build professional Software and Website
-      for both small and medium business orgainazation.</p>
+      for both small and medium business organizations.</p>
 
-   <img src="profile_img.png" alt="monday eseinone profile img">
-    <p> Completed over 20 desktop app for various clients to help manage their businsses. 
+   <img src="profile_img.png" alt="Monday eseinone profile img">
+    <p> Completed over 20 desktop apps for various clients to help manage their businesses. 
       feel free to check out samples of my recent project through the link below</p>
          <h2> My Work</h2>
     <p> 
         I am passionate about making good use of the Python programming language,
-        HTML and CSS to build dynamic, mobile responsive and interactive web apps, 
+        HTML and CSS to build dynamic, mobile responsive, and interactive web apps, 
         for the purpose of solving a real-life problem. Feel free to check out the 
-        simple expenses tracker App I recently built. You can click on the link bellow 
-        to see explainner video. I also built the Desktop version of the App which is 
-        more robust with three file saving system which includes saving the users 
+        simple expenses tracker App I recently built. You can click on the link below 
+        to see explainer video. I also built the Desktop version of the App which is 
+        more robust with three file-saving system which include saving the users 
         entries to a database,
-        excel file and also generating receipt with a text file for every entry.</p>
+        excel file and also generating a receipt with a text file for every entry.</p>
   </div>
 
 
@@ -107,13 +107,13 @@
 
         <p> 
           I am passionate about making good use of the Python programming language,
-           HTML and CSS to build dynamic, mobile responsive and interactive web apps, 
+           HTML and CSS to build dynamic, mobile responsive, and interactive web apps, 
           for the purpose of solving a real-life problem. Feel free to check out the 
-          simple expenses tracker App I recently built. You can click on the link bellow 
-          to see explainner video. I also built the Desktop version of the App which is 
-          more robust with three file saving system which includes saving the users 
+          simple expenses tracker App I recently built. You can click on the link below 
+          to see the explainer video. I also built the Desktop version of the App which is 
+          more robust with three file-saving systems which includes saving the user 
           entries to a database,
-           excel file and also generating receipt with a text file for every entry.</p>
+           excel file, and also generating a receipt with a text file for every entry.</p>
 
     </div>
   </div>
